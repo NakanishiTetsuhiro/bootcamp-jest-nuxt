@@ -22,15 +22,12 @@
       </div>
     </div>
 
-    <!-- Start of HubSpot Embed Code -->
+    <!-- Start of rebuild Zendesk Widget script -->
     <script
-      type="text/javascript"
-      id="hs-script-loader"
-      async
-      defer
-      src="//js.hs-scripts.com/7194987.js"
+      id="ze-snippet"
+      src="https://static.zdassets.com/ekr/snippet.js?key=8d61b3c9-03ab-416a-ac85-75ba36c8aa13"
     ></script>
-    <!-- End of HubSpot Embed Code -->
+    <!-- End of rebuild Zendesk Widget script -->
   </div>
 </template>
 
