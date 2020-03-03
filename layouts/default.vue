@@ -1,6 +1,16 @@
 <template>
   <div>
     <nuxt />
+
+    <!-- Start of HubSpot Embed Code -->
+    <script
+      id="hs-script-loader"
+      type="text/javascript"
+      async
+      defer
+      src="//js.hs-scripts.com/7194987.js"
+    ></script>
+    <!-- End of HubSpot Embed Code -->
   </div>
 </template>
 
